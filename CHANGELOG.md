@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.2.0](https://github.com/antoniopacheco/commitizen-test/compare/v0.1.3...v0.2.0) (2020-11-12)
+
+
+### ⚠ BREAKING CHANGES
+
+* **ap:** for x now you need y and z
+
+### Features
+
+* **ap:** change text ([5d1bc4f](https://github.com/antoniopacheco/commitizen-test/commit/5d1bc4fda0e5296f7f3a52aa0a8320376cc2b93a))
+
 ### [0.1.3](https://github.com/antoniopacheco/commitizen-test/compare/v0.1.2...v0.1.3) (2020-11-12)
 
 
